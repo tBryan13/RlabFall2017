@@ -9,3 +9,4 @@ state-geocodes-v2016.csv = US Region codes from US Census Bureau. Accessed from 
 
 R11484269.dta = County demographics from American Community Survey 5-yr estimates, 2011-2015. Accessed from Social Explorer, October 4, 2017.
 
+wdi.dta = World Development Indicators from the World Bank for 2015. Accessed from Social Explorer, October 4, 2017.
